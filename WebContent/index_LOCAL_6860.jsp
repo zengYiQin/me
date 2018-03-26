@@ -97,6 +97,6 @@
 		echarts.setOption(option);
 		
 	</script>
-	aaabbbbcccc
+	aaabbb
 </body>
 </html>
