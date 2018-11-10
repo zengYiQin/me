@@ -1,1 +1,1 @@
-var id=$("#id").val();
+var id1=$("#id").val();
