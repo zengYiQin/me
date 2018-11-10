@@ -7,6 +7,3 @@ var sex4=$("#sex").val();
 
 
 
-var sex=$("#sex").val();
-
-
